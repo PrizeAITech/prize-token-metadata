@@ -1,0 +1,24 @@
+{
+  "name": "Prize AI Technologies",
+  "symbol": "PRIZE",
+  "description": "Prize AI Technologies $PRIZE Token – Real‐Yield, Stakeable SOL Token",
+  "image": "prizetokenlogo.png",
+  "external_url": "https://prizetech.xyz",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "creators": [
+      {
+        "address": "4WsymMRCHZ9u3aXPDZYtfe8FoSQ3c3poLCQCvnqvoWkf",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "prizetokenlogo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
+
