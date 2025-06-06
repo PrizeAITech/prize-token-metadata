@@ -2,7 +2,7 @@
   "name": "Prize AI Technologies",
   "symbol": "PRIZE",
   "description": "$PRIZE fuels the Prize AI Technologies platform — merging AI, gaming, staking, and real-yield crypto revenue into a high-growth ecosystem designed to drive mass adoption, venue integration, and global token demand.",
-  "image": "https://arweave.net/a5KTUeRYcEA-XQYVF5F287r8_eWwuovKzeG25yqcCwM.png",
+  "image": "https://raw.githubusercontent.com/PrizeAITech/prize-token-metadata/1befa9f733c3c2e480e11af606194fdeb1e3aa65/prizetokenlogo.png",
   "external_url": "https://prizetech.xyz",
   "seller_fee_basis_points": 0,
   "attributes": [],
@@ -15,7 +15,7 @@
     ],
     "files": [
       {
-        "uri": "https://arweave.net/a5KTUeRYcEA-XQYVF5F287r8_eWwuovKzeG25yqcCwM.png",
+        "uri": "https://raw.githubusercontent.com/PrizeAITech/prize-token-metadata/1befa9f733c3c2e480e11af606194fdeb1e3aa65/prizetokenlogo.png",
         "type": "image/png"
       }
     ]
