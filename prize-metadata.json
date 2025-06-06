@@ -1,8 +1,8 @@
 {
   "name": "Prize AI Technologies",
   "symbol": "PRIZE",
-  "description": "Prize AI Technologies $PRIZE Token – Real‐Yield, Stakeable SOL Token",
-  "image": "prizetokenlogo.png",
+  "description": "$PRIZE fuels the Prize AI Technologies platform — merging AI, gaming, staking, and real-yield crypto revenue into a high-growth ecosystem designed to drive mass adoption, venue integration, and global token demand.",
+  "image": "https://arweave.net/a5KTUeRYcEA-XQYVF5F287r8_eWwuovKzeG25yqcCwM.png",
   "external_url": "https://prizetech.xyz",
   "seller_fee_basis_points": 0,
   "attributes": [],
@@ -15,10 +15,9 @@
     ],
     "files": [
       {
-        "uri": "prizetokenlogo.png",
+        "uri": "https://arweave.net/a5KTUeRYcEA-XQYVF5F287r8_eWwuovKzeG25yqcCwM.png",
         "type": "image/png"
       }
     ]
   }
 }
-
