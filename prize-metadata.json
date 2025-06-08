@@ -2,7 +2,7 @@
   "name": "Prize AI Technologies",
   "symbol": "PRIZE",
   "description": "$PRIZE fuels the Prize AI Technologies platform — merging AI, gaming, staking, and real-yield crypto revenue into a high-growth ecosystem designed to drive mass adoption, venue integration, and global token demand.",
-  "image": "ipfs://bafybeihhnoqq3e6hez6xuqohtva27ns3xg6yvtqdqcq6jlxqphjmapw7bm",
+  "image": "ipfs://bafkreie4soieazeqasyfv33weurq7ab3zo5a7iqm3agedi5duhlrbqhcaa",
   "external_url": "https://prizetech.xyz",
   "seller_fee_basis_points": 0,
   "attributes": [],
@@ -15,9 +15,10 @@
     ],
     "files": [
       {
-        "uri": "ipfs://bafybeihhnoqq3e6hez6xuqohtva27ns3xg6yvtqdqcq6jlxqphjmapw7bm",
+        "uri": "ipfs://bafkreie4soieazeqasyfv33weurq7ab3zo5a7iqm3agedi5duhlrbqhcaa",
         "type": "image/png"
       }
     ]
   }
 }
+
