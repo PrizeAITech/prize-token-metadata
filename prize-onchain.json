@@ -1,0 +1,16 @@
+{
+  "name": "Prize AI Technologies",
+  "symbol": "PRIZE",
+  "uri": "https://gateway.pinata.cloud/ipfs/bafkreihsshvs74ezasjyriyep7k22klic34wj6p7t4jztfm2p3hurajqni",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "4WsymMRCHZ9u3aXPDZYtfe8FoSQ3c3poLCQCvnqvoWkf",
+      "verified": true,
+      "share": 100
+    }
+  ],
+  "collection": null,
+  "uses": null,
+  "is_mutable": true
+}
