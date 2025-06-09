@@ -1,15 +1,25 @@
 {
   "name": "Prize AI Technologies",
   "symbol": "PRIZE",
-  "description": "$PRIZE fuels the Prize AI Technologies platform — merging AI, gaming, staking, and real-yield crypto revenue into a high-growth ecosystem designed to drive mass adoption, venue integration, and global token demand.",
+  "description": "$PRIZE fuels an AI-powered gaming & staking ecosystem—driving buy pressure through real-yield venue fees and mass adoption.",
   "image": "ipfs://bafkreie4soieazeqasyfv33weurq7ab3zo5a7iqm3agedi5duhlrbqhcaa",
   "external_url": "https://prizetech.xyz",
   "seller_fee_basis_points": 0,
-  "attributes": [],
+  "attributes": [
+    {
+      "trait_type": "Twitter",
+      "value": "https://twitter.com/PrizeAITech"
+    },
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/PrizeAITech"
+    }
+  ],
   "properties": {
     "creators": [
       {
         "address": "4WsymMRCHZ9u3aXPDZYtfe8FoSQ3c3poLCQCvnqvoWkf",
+        "verified": true,
         "share": 100
       }
     ],
@@ -21,4 +31,3 @@
     ]
   }
 }
-
