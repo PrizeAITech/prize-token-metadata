@@ -1,11 +1,15 @@
 {
   "name": "Prize AI Technologies (PRIZE)",
   "symbol": "PRIZE",
-  "description": "$PRIZE fuels an AI-powered gaming & staking ecosystem—driving buy pressure through real-yield venue fees and mass adoption.",
+  "description": "$PRIZE fuels an AI-powered ecosystem serving the casino, arcade, and vending industries with rewards & payments solutions that drive buy pressure through real-yield venue fees and mass adoption. Prize AI Technologies combines artificial intelligence and crypto with a software network infrastructure and mobile app to create sustainable tokenomics through revenue-generating mechanisms and community-driven governance",
   "image": "ipfs://bafkreie4soieazeqasyfv33weurq7ab3zo5a7iqm3agedi5duhlrbqhcaa",
   "external_url": "https://prizetech.xyz",
   "seller_fee_basis_points": 0,
   "attributes": [
+    {
+      "trait_type": "Website",
+      "value": "https://prizetech.xyz"
+    },
     {
       "trait_type": "Twitter",
       "value": "https://twitter.com/PrizeAITech"
@@ -13,6 +17,74 @@
     {
       "trait_type": "Telegram",
       "value": "https://t.me/PrizeAITech"
+    },
+    {
+      "trait_type": "GitHub",
+      "value": "https://github.com/PrizeAITech"
+    },
+    {
+      "trait_type": "Whitepaper",
+      "value": "on website as PDF"
+    },
+    {
+      "trait_type": "Roadmap",
+      "value": "https://www.prizetech.xyz/tokenomics"
+    },
+    {
+      "trait_type": "Total Supply",
+      "value": "5000000000"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "9"
+    },
+    {
+      "trait_type": "Token Type",
+      "value": "Utility, AI, Real Yield"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Category",
+      "value": "AI, Gaming, DeFi, Real Yield"
+    },
+    {
+      "trait_type": "Use Cases",
+      "value": "Gaming, Staking, Governance, AI Infrastructure, Real Yield"
+    },
+    {
+      "trait_type": "Launch Date",
+      "value": "Presale Active - TGE TBA"
+    },
+    {
+      "trait_type": "Contract Address",
+      "value": "4WsymMRCHZ9u3aXPDZYtfe8FoSQ3c3poLCQCvnqvoWkf"
+    },
+    {
+      "trait_type": "Contract Verified",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Audit Status",
+      "value": "CERTIK"
+    },
+    {
+      "trait_type": "KYC Status",
+      "value": "CERTIK"
+    },
+    {
+      "trait_type": "Liquidity Provider",
+      "value": "TBA"
+    },
+    {
+      "trait_type": "Initial Market Cap",
+      "value": "105000000"
+    },
+    {
+      "trait_type": "Revenue Model",
+      "value": "Venue Fees, Staking Rewards, Casino-Arcade and Vending industry Revenue"
     }
   ],
   "properties": {
@@ -29,5 +101,7 @@
         "type": "image/png"
       }
     ]
-  }
+  },
+  "collection": null,
+  "uses": null
 }
