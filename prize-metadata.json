@@ -60,7 +60,7 @@
     },
     {
       "trait_type": "Contract Address",
-      "value": "4WsymMRCHZ9u3aXPDZYtfe8FoSQ3c3poLCQCvnqvoWkf"
+      "value": "3Y3CTGyfDbPRNCLJQA95zFVS3jUysP4Rgd3aJLhBtYk2"
     },
     {
       "trait_type": "Contract Verified",
@@ -90,7 +90,8 @@
   "properties": {
     "creators": [
       {
-        "address": "4WsymMRCHZ9u3aXPDZYtfe8FoSQ3c3poLCQCvnqvoWkf",
+        "address": "GDyCzmMb4hpAbhAq8WTiu7x2v57nPVp45o2jvF3EyXjL
+",
         "verified": true,
         "share": 100
       }
