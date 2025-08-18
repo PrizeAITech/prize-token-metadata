@@ -1,6 +1,16 @@
 {
   "name": "Prize AI Technologies",
   "symbol": "PRIZE",
-  "description": "AI-powered gaming and real yield infrastructure on Solana. Website: https://prizetech.xyz | Twitter: https://twitter.com/PrizeAITech | Telegram: https://t.me/PrizeAiTech | GitHub: https://github.com/PrizeAITech | Whitepaper: https://prizetech.xyz/whitepaper.pdf | Total Supply: 5,000,000,000 | Contract: 3Y3CTGyfDbPRNCLJQA95zFVS3jUysP4Rgd3aJLhBtYk2 | Audit: CERTIK | KYC: CERTIK | Categories: AI, Gaming, DeFi, Real Yield",
-  "image": "https://arweave.net/9LQq0oSekkx5Ri874vtWwD_7POIgoYVFb8QIYsSVtaE"
+  "uri": "https://arweave.net/XOcSyOyWigUL_c7B7GUZJmed_6GikdTJDo9qGfu7jL8",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "4WsymMRCHZ9u3aXPDZYtfe8FoSQ3c3poLCQCvnqvoWkf",
+      "verified": true,
+      "share": 100
+    }
+  ],
+  "collection": null,
+  "uses": null,
+  "is_mutable": true
 }
